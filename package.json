@@ -543,7 +543,7 @@
     "webpack-cli": "^3.3.7"
   },
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "vscode-extension-telemetry": "0.1.1",
     "vscode-extension-telemetry-wrapper": "0.4.0"
   }
